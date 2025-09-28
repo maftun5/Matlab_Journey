@@ -13,6 +13,7 @@
 Generated a 10Hz sine wave and plotted it
 Output:
 <img width="545" height="480" alt="image" src="https://github.com/user-attachments/assets/1c126f37-4613-47d2-a982-3ae8fa57b8c8" />
+
 With grid lines and title and units:
 <img width="570" height="491" alt="image" src="https://github.com/user-attachments/assets/eeec4b5e-3cd6-4d80-ad04-eddebae80b3c" />
 
