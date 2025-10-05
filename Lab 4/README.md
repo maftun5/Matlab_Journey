@@ -45,3 +45,10 @@
 
 #### Output:
 <img width="334" height="526" alt="image" src="https://github.com/user-attachments/assets/6fb7d4a1-c9c1-4d93-9af9-03f6229bb959" />
+
+
+### Ex 6: Matrix Generator
+`MatrixGenerator.m`
+
+#### Output:
+<img width="525" height="473" alt="image" src="https://github.com/user-attachments/assets/9fe1815c-9406-4aa7-b2d8-a11e75ca3ec1" />
