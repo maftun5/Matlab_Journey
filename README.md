@@ -4,4 +4,4 @@
 ### *Name*: Halimjonova Maftuna
 
 
-Here goes labs done in Matlab for my Signals and System Design course
+Here go the labs done in Matlab for my Signals and Systems Design course
