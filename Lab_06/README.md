@@ -41,7 +41,7 @@
 <img width="1094" height="217" alt="image" src="https://github.com/user-attachments/assets/38dd055a-c81d-4742-b030-5ea1dd249ccc" />
 
 ### Ex 5: Ramp and Step Functions
-[script](Matlab_Journey/Lab_06/RampStep.m)
+[script](RampStep.m)
 #### Key takeaways:
 - [A, B] -> to merge arrays
 #### Output:
