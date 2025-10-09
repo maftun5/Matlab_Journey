@@ -8,7 +8,7 @@
 
 ## Exercises Completed
 ### Ex 1: Sales data Visualization
-[script](Matlab_Journey/Lab_06/ABCSales.m)
+[script](ABCSales.m)
 #### Key takeaways:
 - load *file*  -> loads file
 - *file*(row, :) -> extracts specific row from data file
@@ -17,19 +17,19 @@
 <img width="1119" height="742" alt="image" src="https://github.com/user-attachments/assets/35371c71-1ec3-40c7-85b4-7f67dbfc0d69" />
 
 ### Ex 2: Discrete Square Wave
-[script](Matlab_Journey/Lab_06/DiscreteWave.m)
+[script](DiscreteWave.m)
 #### Key takeaways:
 - stem() -> plot discrete signals
 #### Output:
 <img width="1120" height="746" alt="image" src="https://github.com/user-attachments/assets/aeb85ba8-681d-48fa-b529-7374cb63d275" />
 
 ### Ex 3: Exponential Signals
-[script](Matlab_Journey/Lab_06/exponentials.m)
+[script](exponentials.m)
 #### Output:
 <img width="1121" height="741" alt="image" src="https://github.com/user-attachments/assets/84ffad92-b86f-43d0-8c46-471fd4bf5d91" />
 
 ### Ex 4: Rectangular Pulses
-[script](Matlab_Journey/Lab_06/ex3_6.m)
+[script](ex3_6.m)
 #### Key takeaways:
 - subplot(m, n, p) where m - # of rows of plots, n - columns, p - position index
 - axis tight  -> adjusts the plot axes to fit the data, makes the graph zoom in
