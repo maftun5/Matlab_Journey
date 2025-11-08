@@ -15,7 +15,7 @@ y[n] = x[n-k]
 ## MATLAB Implementation
 
 ### Signal Time Shifting and Spectral Analysis
-Lab_09/signal_analysis.m
+signal_analysis.m
 
 #### Key Takeaways:
 * fft(): Computes Discrete Fourier Transfrom
@@ -31,10 +31,9 @@ Lab_09/signal_analysis.m
 #### Notes:
 Time-shifting in time domain = Phase shift in frequency domain
 
-
-### 
-
-
-
-
-
+#### Output:
+<img width="972" height="139" alt="image" src="https://github.com/user-attachments/assets/ac8b072e-0653-4f98-8ead-54d9215307b8" />
+<img width="972" height="139" alt="image" src="https://github.com/user-attachments/assets/05c1ce7d-c3e2-44ee-971b-4be5657859f8" />
+<img width="975" height="114" alt="image" src="https://github.com/user-attachments/assets/e8fa2585-afe0-4d8d-804e-3264294d5f0b" />
+<img width="975" height="114" alt="image" src="https://github.com/user-attachments/assets/e71c7f1e-c8b1-4fcf-8096-2d28af3d8ab1" />
+<img width="995" height="139" alt="image" src="https://github.com/user-attachments/assets/6e775581-5256-47b6-a5f0-3573ecf93478" />
